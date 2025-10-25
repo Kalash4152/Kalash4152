@@ -115,6 +115,7 @@ VLSI-focused Electronics & Telecommunication engineering student passionate abou
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e5dde3ee-4d94-42fe-8e0f-f884942f4439" />
 
 </p>
+
 ---
 
 ## 📫 Contact  

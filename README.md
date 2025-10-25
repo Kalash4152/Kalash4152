@@ -1,6 +1,7 @@
 # Kalash Bheda  
 **Electronics & Telecommunication (Honours – VLSI Specialisation)**  
 [LinkedIn](https://www.linkedin.com/in/kalash-bheda/) · [GitHub](https://github.com/kalash4152)
+<img width="577" height="376" alt="image" src="https://github.com/user-attachments/assets/06f0edec-8e15-4b4d-a0ae-991e97d4fcc4" />
 
 ---
 

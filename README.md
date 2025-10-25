@@ -5,67 +5,63 @@
 ---
 
 ## 🎯 Summary  
-VLSI-focused Electronics & Telecommunication engineering student passionate about semiconductor systems, chip design, and digital hardware. Skilled in Verilog, SystemVerilog, RISC-V architecture, FSM design, embedded C, and multi-layer PCB layout. Dedicated to creating efficient, high-performance electronic systems that bridge embedded and VLSI domains.
+VLSI-focused Electronics & Telecommunication engineering student passionate about semiconductor systems, digital hardware, and embedded electronics. Skilled in Verilog, SystemVerilog, RISC-V architecture, FSM design, embedded C, MATLAB, and multi-layer PCB layout. Dedicated to building efficient, high-performance electronic systems that bridge embedded and VLSI design.
 
 ---
 
-## 🛠 Core Skills  
+## ⚙️ Core Skills  
 
-### VLSI & Digital Design  
-![Verilog](https://www.svgrepo.com/show/374163/verilog.svg) ![SystemVerilog](https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-plain.svg) ![RISC-V](https://upload.wikimedia.org/wikipedia/commons/0/0a/RISC-V_icon.svg)  
-- Verilog / SystemVerilog RTL modelling  
-- FSMs, multiplexers, decoders, counters, timing analysis  
-- RISC-V architecture understanding and ISA-level design  
+### 💻 VLSI & Digital Design  
+- Verilog / SystemVerilog RTL design and simulation  
+- FSMs, multiplexers, decoders, and counters  
+- RISC-V architecture understanding and custom ISA-level design  
 
-### Embedded Systems & Tools  
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) ![Arduino IDE](https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg) ![ESP32](https://cdn.worldvectorlogo.com/logos/esp32-1.svg)  
-- Embedded C / C++ firmware for real-time controllers  
-- ESP32, Teensy, Arduino IDE, Jetson Nano integration  
-- Sensor interfacing, control algorithms, and low-level drivers  
+### 🔧 Embedded Systems & Tools  
+- Embedded C / C++ programming  
+- ESP32, Teensy, Arduino IDE, Jetson Nano  
+- Sensor interfacing, firmware development, real-time control systems  
 
-### Software & Hardware Design  
-![MATLAB](https://www.vectorlogo.zone/logos/mathworks/mathworks-icon.svg) ![Proteus](https://upload.wikimedia.org/wikipedia/commons/5/59/Proteus_Design_Suite_logo.png) ![KiCad](https://upload.wikimedia.org/wikipedia/commons/2/2a/KiCad_logo.svg)  
+### 🧠 Software & Hardware Design  
 - MATLAB / Simulink modeling and analysis  
 - Circuit simulation in Proteus  
-- Multi-layer PCB design & signal integrity optimization using KiCad  
-- Hardware bring-up, debugging with oscilloscope & logic analyzer  
+- Multi-layer PCB design and signal integrity optimization in KiCad  
+- Hardware bring-up, testing, and debugging (oscilloscope, logic analyzer)  
 
-### Communication Protocols & Digital Electronics  
-![I2C](https://upload.wikimedia.org/wikipedia/commons/3/37/I2C_logo.svg) ![SPI](https://upload.wikimedia.org/wikipedia/commons/6/6f/SPI_logo.svg)  
-- I²C, SPI, CAN, UART communication implementation  
-- GPIO, ADC, PWM interfacing, and digital logic design fundamentals  
+### 🔌 Communication Protocols & Digital Electronics  
+- I²C, SPI, CAN, UART implementation  
+- GPIO, ADC, PWM interfacing  
+- Core digital electronics: logic design, timing analysis, combinational & sequential circuits  
 
-### Tools & Workflow  
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) ![Proteus](https://upload.wikimedia.org/wikipedia/commons/5/59/Proteus_Design_Suite_logo.png)  
-- Git / GitHub version control  
-- Digital simulation & testbench creation  
-- Project management and collaborative hardware development  
+### 🧰 Tools & Workflow  
+- Arduino IDE for embedded programming  
+- Teensy microcontroller development and debugging  
+- ESP32 firmware design, wireless control, and IoT applications  
 
 ---
 
-## 📚 Education  
+## 🎓 Education  
 **Bachelor of Technology (Honours)** – Electronics & Telecommunication Engineering (VLSI Specialisation)  
 **Dwarkadas J. Sanghvi College of Engineering, Mumbai**  
-*Expected Graduation: July 2028*  
+*Expected Graduation: July 2028*
 
 ---
 
-## 🏗 Selected Projects  
+## 🚀 Selected Projects  
 
 ### 🛡 SHAKTI KAVACH – Hackathon Winning Project (Women’s Safety Wearable)  
 - Built a wearable device in 24 hours using ESP32, sensors, GPS, and actuators for instant alerts and live tracking.  
-- Designed PCB in KiCad and implemented real-time firmware in Embedded C for wireless low-latency alerting.  
-- Led team to **1st place at KJSIT LEVEL UP Hackathon** (out of 50 teams).  
+- Designed PCB in KiCad and implemented low-latency firmware in Embedded C for wireless transmission.  
+- Led the team to **1st place at KJSIT LEVEL UP Hackathon** (out of 50 teams).  
 
 ### 🌾 Smart Agriculture & Wild Animal Detection System  
-- Developed Teensy 4.1-driven field monitoring system for precision agriculture and animal intrusion prevention.  
-- Designed high-integrity PCBs with transistor-based logic level shifting to ensure signal reliability in outdoor conditions.  
-- Implemented sensor fusion logic and alerting system for real-time response.  
+- Developed a Teensy 4.1-driven field monitoring system for precision agriculture and intrusion detection.  
+- Designed high-integrity PCBs with transistor-based logic level shifting for outdoor signal reliability.  
+- Implemented sensor fusion and alerting logic for timely responses.  
 
 ### 🚗 Autonomous Vehicle Subsystem Integration – DJS KRONOS  
 - Spearheaded integration of autonomous subsystems using NVIDIA Jetson, Arduino, and ESP32 for SAE eBAJA.  
-- Engineered multi-layer PCBs with I²C, SPI, and CAN protocols, enhancing data throughput and system reliability.  
-- Reduced troubleshooting time by 30% via advanced debugging (oscilloscope & logic analyzer).  
+- Engineered multi-layer PCBs with I²C, SPI, and CAN protocols, improving data throughput and system reliability.  
+- Reduced troubleshooting time by 30% through advanced hardware debugging.  
 
 ---
 
@@ -73,8 +69,8 @@ VLSI-focused Electronics & Telecommunication engineering student passionate abou
 
 **R&D Head – Crux**, Mumbai  |  *May 2025 – Present*  
 - Led electronics & research for a smart foot-health solution.  
-- Improved sensor accuracy by 25% and cut costs by 15% through hardware optimization.  
-- Designed schematics and tested 10+ prototypes for reliability and performance.  
+- Improved sensor accuracy by 25% and reduced cost by 15% through optimized hardware design.  
+- Designed schematics and tested 10+ prototypes for performance and reliability.  
 
 **Embedded System Design Engineer (Intern) – Maven Silicon**, Mumbai  |  *Jun 2025 – Aug 2025*  
 - Developed ESP32-based home automation system, enhancing response time by 25%.  
@@ -101,5 +97,6 @@ VLSI-focused Electronics & Telecommunication engineering student passionate abou
 ---
 
 *Last updated: 25 October 2025*
+
 
 -->

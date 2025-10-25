@@ -105,16 +105,14 @@ VLSI-focused Electronics & Telecommunication engineering student passionate abou
 ## 🌟 Achievements & Memberships  
 - 🏆 **Winner – Shakti Kavach (KJSIT LEVEL UP Hackathon)**  
 - 🎖 **Rank 41 / 250 – CRFTQ National Fellowship**
-<p align="center">
+<p >
   <img width="50" height="50" alt="Proteus" src="https://github.com/user-attachments/assets/80908682-9c39-4e48-b702-89e88150bc34" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="50" height="50" alt="LTspice" src="https://github.com/user-attachments/assets/2c1bed94-00b7-470b-a8e4-cf093817297f" />
 </p>
-
-- 🤝 **Member – IEEE & IETE**
+ 🤝 **Member – IEEE & IETE**
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e5dde3ee-4d94-42fe-8e0f-f884942f4439" />
 - 🚀 **Core Electronics Engineer – DJS KRONOS (Autonomous Vehicle Team)**  
-- 💻 GitHub: [github.com/kalash4152](https://github.com/kalash4152) – Project repositories for firmware, PCB designs & Verilog modules  
 
 ---
 

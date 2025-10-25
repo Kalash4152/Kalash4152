@@ -1,6 +1,8 @@
-# Kalash Bheda  
-**Electronics & Telecommunication (Honours – VLSI Specialisation)**  
-[LinkedIn](https://www.linkedin.com/in/kalash-bheda/) · [GitHub](https://github.com/kalash4152)
+  
+[![Instagram](https://img.shields.io/badge/Instagram-@kalash_wildlife-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kalash_wildlife?igsh=OXNmM3VsNzNva2Z6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalash%20Bheda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalash-bheda/)
+[![GitHub](https://img.shields.io/badge/GitHub-kalash4152-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalash4152)
+
 <img width="577" height="376" alt="image" src="https://github.com/user-attachments/assets/06f0edec-8e15-4b4d-a0ae-991e97d4fcc4" />
 
 ---

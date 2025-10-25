@@ -48,6 +48,24 @@ VLSI-focused Electronics & Telecommunication engineering student passionate abou
 
 ## 🚀 Selected Projects  
 
+### 🧅 Field-Ready Smart Onion Storage System *(Team Leader)*  
+- Designed and led development of an intelligent post-harvest onion storage system to reduce spoilage and extend shelf life for small and medium farmers.  
+- Integrated **four detection layers** for comprehensive monitoring:  
+  1️⃣ **Environmental sensing** – Temperature & humidity tracking via DHT-class sensors.  
+  2️⃣ **Gas sensing** – MQ-137 (NH₃) for bacterial soft rot, MQ-136 (H₂S) for decay, MQ-135/MiCS sensors for VOC/CO₂/ethylene trends.  
+  3️⃣ **Weight & firmness** – HX711 with 5–10 kg load cells for crate-level tracking, FSR-402 patches for localized softening.  
+  4️⃣ **Visual inspection** – Raspberry Pi with OV5642/Arducam for spotting fungal patches, sprouts, and surface damage.  
+- A rotating central structure provides **360° coverage**, ensuring every bulb face and microclimate pocket is periodically sampled.  
+- **Sensor fusion** implemented on a Teensy 4.1 for deterministic control, with optional Raspberry Pi co-processor for image analytics and data logging.  
+- Actuation system includes:  
+  - Relay-controlled ventilation fan (galvanic isolation).  
+  - Timed **UV-C sterilization** with safety interlocks.  
+  - **Neem-based antiseptic mist** dispensers triggered by NH₃ detection.  
+  - **Quicklime trays** for passive humidity control.  
+- Emphasized affordability, scalability, and field reliability. Designed for rural deployment and sustainable agriculture impact.  
+
+---
+
 ### 🛡 SHAKTI KAVACH – Hackathon Winning Project (Women’s Safety Wearable)  
 - Built a wearable device in 24 hours using ESP32, sensors, GPS, and actuators for instant alerts and live tracking.  
 - Designed PCB in KiCad and implemented low-latency firmware in Embedded C for wireless transmission.  
@@ -60,7 +78,7 @@ VLSI-focused Electronics & Telecommunication engineering student passionate abou
 
 ### 🚗 Autonomous Vehicle Subsystem Integration – DJS KRONOS  
 - Spearheaded integration of autonomous subsystems using NVIDIA Jetson, Arduino, and ESP32 for SAE eBAJA.  
-- Engineered multi-layer PCBs with I²C, SPI, and CAN protocols, improving data throughput and system reliability.  
+- Engineered multi-layer PCBs with I²C, SPI, and CAN protocols, improving data throughput and reliability.  
 - Reduced troubleshooting time by 30% through advanced hardware debugging.  
 
 ---
@@ -69,12 +87,12 @@ VLSI-focused Electronics & Telecommunication engineering student passionate abou
 
 **R&D Head – Crux**, Mumbai  |  *May 2025 – Present*  
 - Led electronics & research for a smart foot-health solution.  
-- Improved sensor accuracy by 25% and reduced cost by 15% through optimized hardware design.  
-- Designed schematics and tested 10+ prototypes for performance and reliability.  
+- Improved sensor accuracy by 25% and reduced cost by 15% through hardware optimization.  
+- Designed schematics and tested 10+ prototypes for reliability & performance.  
 
 **Embedded System Design Engineer (Intern) – Maven Silicon**, Mumbai  |  *Jun 2025 – Aug 2025*  
 - Developed ESP32-based home automation system, enhancing response time by 25%.  
-- Implemented FSMs, multiplexers & demultiplexers in C and RISC-V to reduce latency.  
+- Implemented FSMs, multiplexers & demultiplexers in C and RISC-V to reduce control latency.  
 - Strengthened embedded C skills through hands-on hardware design projects.  
 
 ---
@@ -97,6 +115,5 @@ VLSI-focused Electronics & Telecommunication engineering student passionate abou
 ---
 
 *Last updated: 25 October 2025*
-
 
 -->

@@ -93,6 +93,7 @@ VLSI-focused Electronics & Telecommunication engineering student passionate abou
 - Led electronics & research for a smart foot-health solution.  
 - Improved sensor accuracy by 25% and reduced cost by 15% through hardware optimization.  
 - Designed schematics and tested 10+ prototypes for reliability & performance.  
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/472056bc-8308-4089-955d-1fdc0bb48117" />
 
 **Embedded System Design Engineer (Intern) – Maven Silicon**, Mumbai  |  *Jun 2025 – Aug 2025*  
 - Developed ESP32-based home automation system, enhancing response time by 25%.  

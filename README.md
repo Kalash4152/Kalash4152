@@ -52,7 +52,7 @@ VLSI-focused Electronics & Telecommunication engineering student passionate abou
 
 ## 🚀 Selected Projects  
 
-### 🧅 Field-Ready Smart Onion Storage System *(Team Leader)*  
+### 🧅  Agritech hackathon winning project: Field-Ready Smart Onion Storage System *(Team Leader)*  
 - Designed and led development of an intelligent post-harvest onion storage system to reduce spoilage and extend shelf life for small and medium farmers.  
 - Integrated **four detection layers** for comprehensive monitoring:  
   1️⃣ **Environmental sensing** – Temperature & humidity tracking via DHT-class sensors.  

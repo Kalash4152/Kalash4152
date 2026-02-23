@@ -8,7 +8,7 @@
 <img width="577" height="259" alt="image" src="https://github.com/user-attachments/assets/a9e9e72e-2ec9-4eae-920e-bda10595b327" />
 ---
 
-## 🎯 Summary  
+## 🎯 Summary  (3x hackathon winner)
 VLSI-focused Electronics & Telecommunication engineering student passionate about semiconductor systems, digital hardware, and embedded electronics. Skilled in Verilog, SystemVerilog, RISC-V architecture, FSM design, embedded C, MATLAB, and multi-layer PCB layout. Dedicated to building efficient, high-performance electronic systems that bridge embedded and VLSI design.
 
 ---

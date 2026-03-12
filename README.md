@@ -103,7 +103,10 @@ VLSI-focused Electronics & Telecommunication engineering student passionate abou
 ---
 
 ## 🌟 Achievements & Memberships  
-- 🏆 **Winner – Shakti Kavach (KJSIT LEVEL UP Hackathon)**  
+- 🏆 **Winner – Shakti Kavach (KJSIT LEVEL UP Hackathon)**
+- 🏆 **Winner – Codeversity IIT GANDHINAGAR NATIONAL LEVEL HACKATHON**
+- 🏆 **Winner – KJSCE AGRITECH 2026 WINNER**
+- 🏆 **HULT PRIZE DJSCE*IIC WINNER** 
 - 🎖 **Rank 41 / 250 – CRFTQ National Fellowship**
 - **Member** – 
  <img width="50" height="50" alt="Proteus" src="https://github.com/user-attachments/assets/80908682-9c39-4e48-b702-89e88150bc34" />

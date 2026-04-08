@@ -8,7 +8,7 @@
 <img width="577" height="259" alt="image" src="https://github.com/user-attachments/assets/a9e9e72e-2ec9-4eae-920e-bda10595b327" />
 ---
 
-## 🎯 Summary  (8x hackathon winner)
+## 🎯 Summary  (12x hackathon winner)
 VLSI-focused Electronics & Telecommunication engineering student passionate about semiconductor systems, digital hardware, and embedded electronics. Skilled in Verilog, SystemVerilog, RISC-V architecture, FSM design, embedded C, MATLAB, and multi-layer PCB layout. Dedicated to building efficient, high-performance electronic systems that bridge embedded and VLSI design.
 
 ---
@@ -16,18 +16,19 @@ VLSI-focused Electronics & Telecommunication engineering student passionate abou
 ## ⚙️ Core Skills  
 
 ### 💻 VLSI & Digital Design  
-- Verilog / SystemVerilog RTL design and simulation  
+- Verilog / SystemVerilog RTL design, simulation, and FPGA Arty A7 100t implementation
 - FSMs, multiplexers, decoders, and counters  
 - RISC-V architecture understanding and custom ISA-level design  
 
 ### 🔧 Embedded Systems & Tools  
 - Embedded C / C++ programming  
-- ESP32, Teensy, Arduino IDE, Jetson Nano  
+- ESP32, Teensy, Arduino IDE, ARTY A7 100T FPGA BOARD 
 - Sensor interfacing, firmware development, real-time control systems  
 
 ### 🧠 Software & Hardware Design  
 - MATLAB / Simulink modeling and analysis  
-- Circuit simulation in Proteus  
+- Circuit simulation in Proteus
+- RTL DESIGN AND FPGA ON VIVADO
 - Multi-layer PCB design and signal integrity optimization in KiCad  
 - Hardware bring-up, testing, and debugging (oscilloscope, logic analyzer)  
 
